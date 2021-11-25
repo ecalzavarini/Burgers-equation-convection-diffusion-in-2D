@@ -10,5 +10,5 @@ Spatial domain : X ∈(0,2)
 		  
 Initial Conditions : setting u = 3 between 0.75(x,y) and 1.25(x,y)  as the I.C.s
 
-Boundery Conditions : u= 1 for x=0, 2 
+Boundary Conditions : u= 1 for x=0, 2 
       		      u= 1 for y=0, 2
